@@ -57,7 +57,7 @@ Sakurai, Jun John, and Jim Napolitano. _Modern Quantum Mechanics_. Cambridge Uni
 Related Readings
 ----------------
 
-The Solvay Meetings and the Development of Quantum Mechanics. Niels Bohr at the occasion of the 12th Solvay Conference in Physics, 9–14. October 1961. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quantum Theory of Fields (PDF)](http://www.solvayinstitutes.be/pdf/Niels_Bohr.pdf)."
+The Solvay Meetings and the Development of Quantum Mechanics. Niels Bohr at the occasion of the 12th Solvay Conference in Physics, 9–14. October 1961. "[Quantum Theory of Fields (PDF)](http://www.solvayinstitutes.be/pdf/Niels_Bohr.pdf)."
 
 Kleppner, Daniel, and Roman Jackiw. "[One Hundred Years of Quantum Physics](https://doi.org/10.1126/science.289.5481.893)." _Science_ 289, no. 5481 (2000): 893–8.
 
